@@ -27,13 +27,17 @@ To get a local copy of this project up and running, follow these simple steps:
 3. Import the database:
    Run the SQL script located in artistgallery.sql using your preferred database management tool (e.g., phpMyAdmin).
 4. Configure your database settings in app/core/config.php:
-   `define('DB_HOST', 'localhost');
+```
+   define('DB_HOST', 'localhost');
    define('DB_USER', 'your_username');
    define('DB_PASS', 'your_password');
-   define('DB_NAME', 'your_database_name');`
+   define('DB_NAME', 'your_database_name');
+   
+```
 5. Start your local server (e.g., XAMPP) and access the application at:
+```
    http://localhost/artGallery
-
+```
 Usage:
 Once the application is running, you can:
 - Register a new account or log in to your existing account.
