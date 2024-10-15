@@ -1,7 +1,9 @@
 <h1>Art Gallery Project</h1>
 
-<b>Overview:</b>
+<strong>Overview:</strong>
+
 The Art Gallery Project is a web application built using PHP, MVC architecture, jQuery, MySQL, and AJAX. This project serves as an online platform for showcasing artworks and facilitating user interactions.
+
 
 <b>Features:</b>
 - User authentication (sign up, login, logout)
