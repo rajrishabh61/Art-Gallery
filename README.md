@@ -1,9 +1,9 @@
 <h1>Art Gallery Project</h1>
 
-Overview:
+<b>Overview:</b>
 The Art Gallery Project is a web application built using PHP, MVC architecture, jQuery, MySQL, and AJAX. This project serves as an online platform for showcasing artworks and facilitating user interactions.
 
-Features:
+<b>Features:</b>
 - User authentication (sign up, login, logout)
 - Gallery for displaying artworks
 - Dynamic search and filter options
@@ -11,14 +11,14 @@ Features:
 - Responsive design for various devices
 - Admin panel for managing artworks and users
 
-Technologies Used:
-- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> - Server-side scripting language
-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> - Database management system
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> - (jQuery) JavaScript library for DOM manipulation
+<b>Technologies Used:</b>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/> - Server-side scripting language
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> - Database management system
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> - (jQuery) JavaScript library for DOM manipulation
 - AJAX - Asynchronous JavaScript and XML for dynamic content loading
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>/<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> - Markup and styling for web pages
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> / <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a> - Markup and styling for web pages
 
-Installation:
+<b>Installation:</b>
 To get a local copy of this project up and running, follow these simple steps:
 1. Clone the repository:
    git clone <repository_url>
@@ -38,17 +38,17 @@ To get a local copy of this project up and running, follow these simple steps:
 ```
    http://localhost/artGallery
 ```
-Usage:
+<b>Usage:</b>
 Once the application is running, you can:
 - Register a new account or log in to your existing account.
 - Browse through the gallery to view various artworks.
 - Use the search feature to find specific artworks.
 - Contact the gallery for any inquiries or information.
 
-Contributing:
+<b>Contributing:</b>
 If you want to contribute to this project, feel free to fork the repository and submit a pull request. Your contributions are welcome!
 
-License:
+<b>License:</b>
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-© 2024 Art Gallery Project
+
